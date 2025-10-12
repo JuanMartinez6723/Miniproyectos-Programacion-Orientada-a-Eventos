@@ -57,8 +57,6 @@ public class The_Hero extends Characters{
         return skills;
     }
 
-    
-
     @Override
     public String toString() {
         return "The_Hero [Weapon=" + Weapons_Heroe + ", HP:" + getHP() + ", MP:"
